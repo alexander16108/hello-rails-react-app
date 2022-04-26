@@ -1,0 +1,5 @@
+Greeting.create!(message: 'Hello, Otto!')
+Greeting.create!(message: 'Konichiwa, Otto!')
+Greeting.create!(message: 'Bawani, Otto!')
+Greeting.create!(message: 'Yayade, Otto!')
+Greeting.create!(message: 'Watin Sup, Otto!')
